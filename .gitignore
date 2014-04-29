@@ -54,3 +54,5 @@ docs/_build/
 
 # project specific
 marvel/scripts/settings.py
+marvel/comics/*.*
+marvel/comincs/raw/*.*
