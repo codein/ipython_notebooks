@@ -16,12 +16,12 @@ def parse_comics_files(directory):
         count += 1
         print count
         # sampling
-        if count > 1000:
-            return character_map
+        # if count > 1000:
+            # return character_map
         comic_file = open(filename)
         comic = json.load(comic_file)
         characters_record = comic.get('characters', {})
-        if random.choice(range(20)) == 1 and characters_record and characters_record.get('available', 0) > 1:
+        if random.choice(range(30)) == 1 and characters_record and characters_record.get('available', 0) > 1:
             characters = characters_record.get('items', [])
             character_names = [character['name'] for character in characters if character['name'] in top_characters]
 
@@ -43,10 +43,11 @@ for character,co_characters in character_map.iteritems():
 characters = sorted(characters, key=sort)
 
 flare_file = open('../flare-characters.json', 'w+')
-json.dump(characters, flare_file)
+json.dump(characters, flare_file
           # sort_keys=True,
           # indent=4,
-          # separators=(',', ': '))
+          # separators=(',', ': ')
+         )
 
 
 
