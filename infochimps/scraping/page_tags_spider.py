@@ -34,16 +34,17 @@ class MySpider(Spider):
     start_urls = []
     base_url = 'http://www.infochimps.com'
     for page_record in page_records:
-        metadata = {
+        general_metadata = {
             'count': page_record['tag']['size'],
             'parent_tag': page_record['tag']['text']
         }
 
         for page in page_record['tag']['pages']:
-            url = '%s%s' % (base_url, str(page['href']))
-            metadata['title'] =  page['title']
-            page_metadata_map[url] = metadata
-
+            url = '%s%s' % (base_url, str(page['url']))
+            page_metadata_map[url] = {
+                'title': page['title']
+            }
+            page_metadata_map[url].update(general_metadata)
             start_urls.append(url)
 
     def parse(self, response):
