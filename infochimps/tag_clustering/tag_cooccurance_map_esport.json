@@ -1,0 +1,1187 @@
+{
+    "code": {
+        "joe:link": 3, 
+        "finance": 2, 
+        "zip": 5, 
+        "zipcode": 5, 
+        "longitude": 5, 
+        "business": 2, 
+        "api": 4, 
+        "latitude": 5, 
+        "retail": 2, 
+        "geo": 5
+    }, 
+    "life-in-the-community": {
+        "death": 2, 
+        "deaths": 2, 
+        "people-and-places": 2, 
+        "environment": 1, 
+        "economic": 2, 
+        "health": 1, 
+        "communities": 2, 
+        "road": 2, 
+        "population": 3
+    }, 
+    "sales": {
+        "census": 2, 
+        "government": 2, 
+        "demographics": 2, 
+        "state": 1, 
+        "america": 2, 
+        "population": 2
+    }, 
+    "crime-and-justice": {
+        "population": 1
+    }, 
+    "facilities": {
+        "census": 2, 
+        "government": 2, 
+        "demographics": 2, 
+        "selected": 1, 
+        "state": 1, 
+        "housing": 1, 
+        "income": 1, 
+        "america": 2, 
+        "type": 1, 
+        "children": 1, 
+        "population": 2
+    }, 
+    "children": {
+        "census": 4, 
+        "government": 4, 
+        "demographics": 4, 
+        "number": 1, 
+        "age": 1, 
+        "america": 4, 
+        "population": 4
+    }, 
+    "geography": {
+        "code": 2, 
+        "gis": 1, 
+        "people": 2, 
+        "country": 1, 
+        "government": 2, 
+        "statistics": 2, 
+        "economy": 2, 
+        "geo": 1, 
+        "population": 2
+    }, 
+    "layers": {
+        "maps": 7, 
+        "gis": 7, 
+        "geography": 7
+    }, 
+    "death": {
+        "government": 11, 
+        "characteristics": 4, 
+        "demographics": 11, 
+        "selected": 4, 
+        "sex": 4, 
+        "state": 2, 
+        "census": 11, 
+        "rates": 11, 
+        "race": 4, 
+        "america": 11, 
+        "deaths": 3, 
+        "age": 5, 
+        "population": 11
+    }, 
+    "police": {
+        "statistics": 1, 
+        "usa": 1, 
+        "deaths": 1, 
+        "us": 1, 
+        "crime": 1, 
+        "death": 1
+    }, 
+    "facility": {}, 
+    "character": {}, 
+    "libraryhack_2011": {
+        "music": 1, 
+        "maps": 1
+    }, 
+    "source": {
+        "census": 2, 
+        "government": 2, 
+        "federal": 1, 
+        "demographics": 2, 
+        "america": 2, 
+        "energy": 1, 
+        "population": 2
+    }, 
+    "program": {
+        "expenditures": 1, 
+        "census": 5, 
+        "government": 5, 
+        "federal": 1, 
+        "characteristics": 1, 
+        "demographics": 5, 
+        "state": 2, 
+        "health": 1, 
+        "child": 1, 
+        "america": 5, 
+        "children": 1, 
+        "population": 5
+    }, 
+    "olympics": {
+        "country": 1
+    }, 
+    "local": {
+        "expenditures": 2, 
+        "census": 3, 
+        "government": 3, 
+        "federal": 1, 
+        "demographics": 3, 
+        "state": 3, 
+        "income": 1, 
+        "america": 3, 
+        "national": 1, 
+        "population": 3
+    }, 
+    "mortality": {
+        "census": 5, 
+        "deaths": 2, 
+        "age": 2, 
+        "government": 5, 
+        "sex": 2, 
+        "death": 1, 
+        "race": 3, 
+        "rates": 3, 
+        "health": 1, 
+        "america": 5, 
+        "demographics": 5, 
+        "population": 6
+    }, 
+    "earnings": {
+        "census": 4, 
+        "government": 4, 
+        "demographics": 4, 
+        "rates": 1, 
+        "social": 1, 
+        "america": 4, 
+        "employment": 1, 
+        "population": 4
+    }, 
+    "well-being-and-care": {
+        "health-care-system": 1, 
+        "health-and-social-care": 6, 
+        "health": 6, 
+        "health-of-the-population": 3
+    }, 
+    "finance": {}, 
+    "atlas_of_living_australia": {
+        "water": 1
+    }, 
+    "early": {
+        "toxics": 27, 
+        "right": 27, 
+        "facility": 27, 
+        "community": 27, 
+        "facilities": 27, 
+        "education": 1, 
+        "management": 27, 
+        "section": 27, 
+        "political": 1, 
+        "state": 27, 
+        "chemical": 27, 
+        "source": 27, 
+        "reduction": 27, 
+        "health": 1, 
+        "inventory": 27, 
+        "toxic": 27, 
+        "waste": 27, 
+        "public": 1, 
+        "sharing": 27, 
+        "form": 27, 
+        "hazardous": 27, 
+        "reporting": 27, 
+        "chemicals": 27, 
+        "know": 27, 
+        "care": 1, 
+        "science": 1, 
+        "economics": 1, 
+        "race": 1, 
+        "release": 27, 
+        "2008": 27, 
+        "prevention": 27, 
+        "pollution": 27
+    }, 
+    "communities": {
+        "police": 1, 
+        "housing": 1, 
+        "crime": 1, 
+        "child": 3, 
+        "children": 3
+    }, 
+    "school": {
+        "census": 1, 
+        "government": 1, 
+        "demographics": 1, 
+        "america": 1, 
+        "population": 1
+    }, 
+    "summary": {
+        "expenditures": 3, 
+        "census": 6, 
+        "government": 6, 
+        "federal": 1, 
+        "national": 3, 
+        "sex": 1, 
+        "state": 1, 
+        "race": 1, 
+        "health": 3, 
+        "america": 6, 
+        "demographics": 6, 
+        "population": 6
+    }, 
+    "benefit": {
+        "population": 3, 
+        "census": 2, 
+        "government": 2, 
+        "demographics": 2, 
+        "selected": 1, 
+        "health": 2, 
+        "america": 2, 
+        "care": 1
+    }, 
+    "race": {
+        "census": 5, 
+        "government": 5, 
+        "federal": 4, 
+        "demographics": 5, 
+        "system": 4, 
+        "america": 5, 
+        "employment": 4, 
+        "population": 5
+    }, 
+    "team": {}, 
+    "release": {
+        "music": 1
+    }, 
+    "identifier": {
+        "major": 1, 
+        "sports": 1
+    }, 
+    "right": {
+        "toxics": 32, 
+        "facility": 32, 
+        "community": 32, 
+        "facilities": 32, 
+        "management": 32, 
+        "section": 32, 
+        "state": 32, 
+        "chemical": 32, 
+        "source": 32, 
+        "reduction": 32, 
+        "inventory": 32, 
+        "toxic": 32, 
+        "waste": 32, 
+        "form": 32, 
+        "hazardous": 32, 
+        "reporting": 32, 
+        "chemicals": 32, 
+        "know": 32, 
+        "release": 32, 
+        "prevention": 32, 
+        "pollution": 32
+    }, 
+    "people": {
+        "census": 6, 
+        "government": 6, 
+        "characteristics": 1, 
+        "demographics": 6, 
+        "number": 1, 
+        "deaths": 2, 
+        "selected": 1, 
+        "income": 3, 
+        "health": 1, 
+        "america": 6, 
+        "population": 6
+    }, 
+    "energy": {
+        "census": 7, 
+        "government": 7, 
+        "demographics": 7, 
+        "selected": 4, 
+        "source": 6, 
+        "state": 6, 
+        "america": 7, 
+        "population": 7
+    }, 
+    "access-nobulk": {
+        "eutransparency": 2, 
+        "statistics": 2, 
+        "finance": 2, 
+        "business": 2
+    }, 
+    "economic": {
+        "census": 2, 
+        "government": 2, 
+        "characteristics": 1, 
+        "energy": 2, 
+        "environment": 2, 
+        "social": 1, 
+        "america": 2, 
+        "demographics": 2, 
+        "population": 2
+    }, 
+    "election": {
+        "joe:link": 2, 
+        "census": 1, 
+        "name": 1, 
+        "government": 4, 
+        "federal": 1, 
+        "demographics": 1, 
+        "us": 1, 
+        "finance": 1, 
+        "america": 1, 
+        "data": 1, 
+        "population": 1
+    }, 
+    "local-authority": {
+        "school": 1, 
+        "housing": 1, 
+        "benefit": 1, 
+        "child": 1, 
+        "children": 1, 
+        "population": 1
+    }, 
+    "download": {
+        "federal": 1, 
+        "locations": 1, 
+        "environment": 1, 
+        "health": 1, 
+        "public": 1, 
+        "pollution": 1
+    }, 
+    "employment": {
+        "census": 3, 
+        "government": 3, 
+        "federal": 2, 
+        "demographics": 3, 
+        "america": 3, 
+        "population": 3
+    }, 
+    "transport": {
+        "statistics": 13, 
+        "finance": 6, 
+        "crime": 4, 
+        "energy": 6, 
+        "access-nobulk": 13, 
+        "environment": 6, 
+        "eutransparency": 9, 
+        "census": 4, 
+        "health": 13, 
+        "income": 6, 
+        "education": 7, 
+        "agriculture": 13, 
+        "industry": 4, 
+        "population": 13
+    }, 
+    "parent": {
+        "census": 2, 
+        "government": 2, 
+        "demographics": 2, 
+        "america": 2, 
+        "children": 1, 
+        "population": 2
+    }, 
+    "section": {
+        "list": 1
+    }, 
+    "selected": {
+        "school": 4, 
+        "statistics": 4, 
+        "government": 4, 
+        "demographics": 4, 
+        "census": 4, 
+        "america": 4, 
+        "public": 4, 
+        "population": 4
+    }, 
+    "bigdata": {
+        "geodata": 2, 
+        "social": 2, 
+        "network": 2
+    }, 
+    "health-care-system": {
+        "well-being-and-care": 3, 
+        "hospital": 3, 
+        "health": 5, 
+        "nhs": 3, 
+        "health-and-social-care": 9, 
+        "care": 3
+    }, 
+    "abs": {
+        "statistics": 3, 
+        "health": 1, 
+        "finance": 2, 
+        "crime": 1
+    }, 
+    "health": {}, 
+    "business-and-energy": {
+        "business": 2, 
+        "deaths": 2, 
+        "energy": 2, 
+        "births": 2, 
+        "business-and-industry": 9
+    }, 
+    "international": {
+        "census": 3, 
+        "people": 1, 
+        "country": 1, 
+        "demographics": 3, 
+        "government": 3, 
+        "access-nobulk": 1, 
+        "eutransparency": 1, 
+        "selected": 2, 
+        "services": 1, 
+        "america": 3, 
+        "type": 1, 
+        "population": 3
+    }, 
+    "public": {
+        "school": 1, 
+        "census": 2, 
+        "government": 2, 
+        "demographics": 2, 
+        "state": 2, 
+        "america": 2, 
+        "population": 2
+    }, 
+    "business": {
+        "census": 2, 
+        "government": 2, 
+        "demographics": 2, 
+        "america": 2, 
+        "population": 2
+    }, 
+    "acronym": {
+        "corpus": 1, 
+        "list": 1, 
+        "language": 1
+    }, 
+    "water": {
+        "census": 4, 
+        "government": 4, 
+        "demographics": 4, 
+        "area": 1, 
+        "number": 2, 
+        "america": 4, 
+        "population": 4
+    }, 
+    "care": {
+        "census": 1, 
+        "government": 1, 
+        "demographics": 1, 
+        "america": 1, 
+        "population": 1
+    }, 
+    "joe:link": {
+        "gis": 3, 
+        "business": 3, 
+        "economics": 3, 
+        "api": 1, 
+        "geo": 3
+    }, 
+    "census": {
+        "population": 5, 
+        "demographics": 5, 
+        "america": 5, 
+        "government": 5
+    }, 
+    "usa": {
+        "economic": 2, 
+        "us": 1
+    }, 
+    "language": {
+        "census": 2, 
+        "name": 2, 
+        "government": 2, 
+        "demographics": 2, 
+        "list": 10, 
+        "corpus": 10, 
+        "america": 2, 
+        "geo": 2, 
+        "children": 2, 
+        "population": 2
+    }, 
+    "country": {
+        "census": 2, 
+        "government": 2, 
+        "demographics": 2, 
+        "america": 2, 
+        "population": 2
+    }, 
+    "industry": {
+        "census": 5, 
+        "government": 5, 
+        "demographics": 5, 
+        "sales": 1, 
+        "environmental": 3, 
+        "america": 5, 
+        "employment": 3, 
+        "population": 5
+    }, 
+    "economics": {
+        "statistics": 3, 
+        "employment": 1, 
+        "energy": 6, 
+        "crime": 3, 
+        "industry": 1, 
+        "census": 1, 
+        "health": 3, 
+        "income": 1, 
+        "agriculture": 1, 
+        "demographics": 3, 
+        "population": 1
+    }, 
+    "survey": {
+        "science": 1, 
+        "school": 2, 
+        "statistics": 2, 
+        "gis": 2, 
+        "usa": 1, 
+        "employment": 2, 
+        "national": 2, 
+        "data": 1, 
+        "race": 2, 
+        "earnings": 2, 
+        "uk": 2, 
+        "social": 2, 
+        "geo": 2, 
+        "demographics": 2, 
+        "population": 2
+    }, 
+    "social": {
+        "bigdata": 5, 
+        "api": 2, 
+        "network": 5
+    }, 
+    "brownfields": {
+        "census": 2, 
+        "superfund": 2, 
+        "government": 2, 
+        "federal": 2, 
+        "demographics": 2, 
+        "america": 2, 
+        "population": 2
+    }, 
+    "retail": {
+        "census": 2, 
+        "business": 2, 
+        "government": 2, 
+        "demographics": 2, 
+        "sales": 2, 
+        "america": 2, 
+        "population": 2
+    }, 
+    "hospital": {
+        "census": 6, 
+        "government": 6, 
+        "sex": 1, 
+        "rates": 3, 
+        "services": 1, 
+        "america": 6, 
+        "type": 2, 
+        "demographics": 6, 
+        "care": 1, 
+        "population": 6
+    }, 
+    "road": {
+        "state": 1, 
+        "national": 1
+    }, 
+    "pollution": {
+        "environment": 2, 
+        "industry": 2, 
+        "geo": 2
+    }, 
+    "cancer": {
+        "census": 2, 
+        "deaths": 1, 
+        "science": 1, 
+        "demographics": 2, 
+        "government": 2, 
+        "state": 1, 
+        "health": 2, 
+        "rates": 1, 
+        "america": 2, 
+        "data": 1, 
+        "mortality": 2, 
+        "population": 4
+    }, 
+    "revenue": {
+        "population": 11, 
+        "census": 11, 
+        "government": 11, 
+        "demographics": 11, 
+        "annual": 4, 
+        "sales": 3, 
+        "expenditures": 2, 
+        "state": 3, 
+        "health": 4, 
+        "america": 11, 
+        "local": 2, 
+        "industry": 3, 
+        "care": 4
+    }, 
+    "economics-and-finance": {
+        "road": 1, 
+        "economy": 5
+    }, 
+    "number": {
+        "census": 3, 
+        "government": 3, 
+        "demographics": 3, 
+        "america": 3, 
+        "population": 3
+    }, 
+    "community": {
+        "census": 3, 
+        "government": 3, 
+        "demographics": 3, 
+        "water": 1, 
+        "source": 1, 
+        "america": 3, 
+        "public": 1, 
+        "population": 3
+    }, 
+    "dictionary": {
+        "music": 5, 
+        "bigdata": 5, 
+        "network": 1
+    }, 
+    "eutransparency": {
+        "statistics": 2, 
+        "economic": 1, 
+        "finance": 1, 
+        "access-nobulk": 2
+    }, 
+    "api": {
+        "census": 6, 
+        "demographics": 8, 
+        "longitude": 5, 
+        "latitude": 5, 
+        "geodata": 14, 
+        "geo": 14, 
+        "geography": 6
+    }, 
+    "nhs": {
+        "well-being-and-care": 3, 
+        "uk": 1, 
+        "health-care-system": 1, 
+        "statistics": 1, 
+        "health": 5, 
+        "services": 1, 
+        "health-and-social-care": 4, 
+        "care": 1
+    }, 
+    "roads": {
+        "travel-and-transport": 9, 
+        "transport": 2, 
+        "road": 7
+    }, 
+    "health-of-the-population": {
+        "health-and-social-care": 4, 
+        "health": 1, 
+        "cancer": 1
+    }, 
+    "city": {
+        "expenditures": 1, 
+        "census": 7, 
+        "government": 7, 
+        "employment": 1, 
+        "demographics": 7, 
+        "selected": 3, 
+        "tax": 1, 
+        "state": 4, 
+        "rates": 1, 
+        "america": 7, 
+        "local": 3, 
+        "population": 7
+    }, 
+    "gis": {
+        "census": 1, 
+        "network": 1, 
+        "demographics": 1, 
+        "uk": 1, 
+        "social": 1, 
+        "geo": 1
+    }, 
+    "zip": {
+        "city": 6, 
+        "code": 5, 
+        "gis": 2, 
+        "area": 4, 
+        "country": 3, 
+        "zipcode": 9, 
+        "us": 4, 
+        "latitude": 4, 
+        "state": 4, 
+        "api": 3, 
+        "longitude": 4, 
+        "geodata": 6, 
+        "international": 1, 
+        "geo": 9, 
+        "election": 2
+    }, 
+    "area": {
+        "america": 14, 
+        "demographics": 14, 
+        "sales": 3, 
+        "country": 2, 
+        "hazardous": 6, 
+        "government": 14, 
+        "list": 6, 
+        "sites": 6, 
+        "summary": 3, 
+        "age": 2, 
+        "state": 9, 
+        "census": 14, 
+        "number": 3, 
+        "retail": 3, 
+        "waste": 6, 
+        "type": 3, 
+        "national": 9, 
+        "population": 14
+    }, 
+    "housing": {
+        "census": 3, 
+        "government": 3, 
+        "characteristics": 2, 
+        "selected": 1, 
+        "state": 1, 
+        "rates": 1, 
+        "america": 3, 
+        "demographics": 3, 
+        "population": 3
+    }, 
+    "political": {
+        "census": 12, 
+        "government": 12, 
+        "demographics": 12, 
+        "number": 5, 
+        "affiliation": 10, 
+        "state": 3, 
+        "party": 10, 
+        "america": 12, 
+        "type": 2, 
+        "population": 12
+    }, 
+    "system": {
+        "census": 2, 
+        "government": 2, 
+        "demographics": 2, 
+        "summary": 1, 
+        "america": 2, 
+        "national": 1, 
+        "population": 2
+    }, 
+    "sports": {
+        "major": 10
+    }, 
+    "reduction": {
+        "joe:link": 1
+    }, 
+    "music": {
+        "release": 3, 
+        "community": 5
+    }, 
+    "interest": {
+        "statistics": 1, 
+        "rates": 1
+    }, 
+    "rates": {
+        "census": 17, 
+        "government": 17, 
+        "demographics": 17, 
+        "crime": 17, 
+        "state": 17, 
+        "interest": 2, 
+        "america": 17, 
+        "type": 9, 
+        "population": 17
+    }, 
+    "corpus": {
+        "joe:link": 2, 
+        "api": 2, 
+        "network": 3, 
+        "social": 5
+    }, 
+    "waste": {
+        "america": 3, 
+        "government": 3, 
+        "demographics": 3, 
+        "revenue": 1, 
+        "census": 3, 
+        "selected": 1, 
+        "services": 1, 
+        "type": 1, 
+        "population": 3
+    }, 
+    "type": {
+        "census": 1, 
+        "government": 1, 
+        "demographics": 1, 
+        "sex": 1, 
+        "america": 1, 
+        "population": 1
+    }, 
+    "minor": {}, 
+    "sharing": {
+        "environment": 1
+    }, 
+    "form": {
+        "statistics": 1, 
+        "income": 1
+    }, 
+    "hazardous": {
+        "america": 2, 
+        "government": 2, 
+        "census": 2, 
+        "waste": 1, 
+        "demographics": 2, 
+        "population": 2
+    }, 
+    "people-and-places": {
+        "earnings": 1, 
+        "road": 1, 
+        "people": 1
+    }, 
+    "environmental": {
+        "science": 1, 
+        "energy": 2, 
+        "environment": 3, 
+        "data": 1, 
+        "economy": 2
+    }, 
+    "child": {
+        "population": 5, 
+        "census": 5, 
+        "language": 1, 
+        "government": 5, 
+        "characteristics": 1, 
+        "demographics": 5, 
+        "selected": 1, 
+        "age": 1, 
+        "state": 3, 
+        "corpus": 1, 
+        "america": 5, 
+        "data": 1, 
+        "children": 1, 
+        "care": 3
+    }, 
+    "geodata": {
+        "statistics": 3, 
+        "economic": 3
+    }, 
+    "housing-and-households": {
+        "housing": 7, 
+        "social": 2, 
+        "people-and-places": 8
+    }, 
+    "sex": {
+        "census": 6, 
+        "government": 6, 
+        "demographics": 6, 
+        "age": 2, 
+        "state": 1, 
+        "race": 2, 
+        "rates": 2, 
+        "america": 6, 
+        "industry": 2, 
+        "population": 6
+    }, 
+    "farming": {
+        "environment": 4, 
+        "agriculture": 5, 
+        "earnings": 1
+    }, 
+    "science": {
+        "environment": 3, 
+        "america": 3, 
+        "government": 3, 
+        "federal": 1, 
+        "energy": 3, 
+        "sex": 1, 
+        "water": 3, 
+        "state": 1, 
+        "census": 3, 
+        "waste": 3, 
+        "demographics": 3, 
+        "population": 3
+    }, 
+    "us": {
+        "census": 3, 
+        "usa": 5, 
+        "area": 3, 
+        "crime": 2, 
+        "maps": 3, 
+        "code": 3, 
+        "geodata": 3, 
+        "america": 2, 
+        "geo": 6
+    }, 
+    "uk": {
+        "access-nobulk": 7, 
+        "economic": 5, 
+        "education": 5, 
+        "transport": 5, 
+        "statistics": 5, 
+        "police": 2, 
+        "usa": 3, 
+        "housing": 5, 
+        "crime": 2, 
+        "environment": 5, 
+        "state": 5, 
+        "health": 10, 
+        "interest": 3, 
+        "rates": 3, 
+        "finance": 5, 
+        "government": 10, 
+        "water": 5, 
+        "services": 5, 
+        "census": 5, 
+        "economics": 3, 
+        "us": 3
+    }, 
+    "education-and-skills": {
+        "school": 4, 
+        "education": 3
+    }, 
+    "annual": {
+        "child": 4, 
+        "census": 9, 
+        "government": 9, 
+        "employment": 1, 
+        "demographics": 9, 
+        "benefit": 3, 
+        "expenditures": 1, 
+        "state": 3, 
+        "income": 4, 
+        "social": 3, 
+        "america": 9, 
+        "type": 4, 
+        "population": 9
+    }, 
+    "deaths": {
+        "census": 1, 
+        "age": 1, 
+        "government": 1, 
+        "sex": 1, 
+        "race": 1, 
+        "america": 1, 
+        "demographics": 1, 
+        "population": 1
+    }, 
+    "characteristics": {
+        "school": 3, 
+        "census": 7, 
+        "government": 7, 
+        "demographics": 7, 
+        "selected": 6, 
+        "sex": 1, 
+        "america": 7, 
+        "public": 3, 
+        "population": 7
+    }, 
+    "tax": {
+        "census": 10, 
+        "government": 10, 
+        "federal": 8, 
+        "country": 1, 
+        "demographics": 10, 
+        "state": 3, 
+        "income": 9, 
+        "america": 10, 
+        "population": 10
+    }, 
+    "site": {}, 
+    "education": {
+        "school": 6
+    }, 
+    "expenditures": {
+        "census": 16, 
+        "population": 16, 
+        "government": 16, 
+        "country": 6, 
+        "demographics": 16, 
+        "source": 4, 
+        "health": 8, 
+        "national": 3, 
+        "party": 4, 
+        "america": 16, 
+        "type": 2, 
+        "public": 3, 
+        "care": 8
+    }, 
+    "zipcode": {
+        "code": 1, 
+        "list": 1, 
+        "zip": 1
+    }, 
+    "chemical": {
+        "census": 2, 
+        "government": 2, 
+        "science": 4, 
+        "demographics": 2, 
+        "us": 1, 
+        "access-nobulk": 1, 
+        "eutransparency": 1, 
+        "toxic": 2, 
+        "america": 2, 
+        "industry": 2, 
+        "population": 2
+    }, 
+    "maps": {
+        "geodata": 1, 
+        "geo": 2, 
+        "gis": 1
+    }, 
+    "inventory": {}, 
+    "income": {
+        "census": 3, 
+        "government": 3, 
+        "national": 2, 
+        "selected": 1, 
+        "america": 3, 
+        "demographics": 3, 
+        "population": 3
+    }, 
+    "toxic": {
+        "census": 2, 
+        "government": 2, 
+        "demographics": 2, 
+        "chemical": 2, 
+        "state": 1, 
+        "america": 2, 
+        "population": 2
+    }, 
+    "party": {
+        "census": 1, 
+        "government": 1, 
+        "characteristics": 1, 
+        "demographics": 1, 
+        "selected": 1, 
+        "america": 1, 
+        "population": 1
+    }, 
+    "health-and-social-care": {
+        "care": 1, 
+        "children": 1, 
+        "child": 1
+    }, 
+    "travel-and-transport": {}, 
+    "economy": {
+        "name": 1, 
+        "federal": 2, 
+        "characteristics": 1, 
+        "national": 1, 
+        "team": 1, 
+        "site": 1, 
+        "environment": 2, 
+        "state": 1, 
+        "economic": 3, 
+        "income": 1, 
+        "download": 2, 
+        "industry": 2
+    }, 
+    "reporting": {
+        "school": 2, 
+        "census": 3, 
+        "government": 4, 
+        "crime": 1, 
+        "age": 1, 
+        "public": 2, 
+        "selected": 2, 
+        "economics": 1, 
+        "america": 3, 
+        "type": 1, 
+        "demographics": 3, 
+        "population": 3
+    }, 
+    "births": {
+        "census": 14, 
+        "government": 14, 
+        "age": 9, 
+        "deaths": 3, 
+        "number": 1, 
+        "sex": 1, 
+        "state": 1, 
+        "race": 9, 
+        "rates": 10, 
+        "america": 14, 
+        "employment": 3, 
+        "demographics": 14, 
+        "population": 14
+    }, 
+    "registry": {
+        "federal": 1, 
+        "us": 1, 
+        "government": 2
+    }, 
+    "services": {
+        "expenditures": 2, 
+        "retail": 6, 
+        "business": 4, 
+        "government": 8, 
+        "demographics": 8, 
+        "sales": 4, 
+        "census": 8, 
+        "health": 2, 
+        "america": 8, 
+        "public": 1, 
+        "population": 8
+    }, 
+    "transporter": {
+        "major": 66, 
+        "superfund": 66, 
+        "facility": 66, 
+        "discharger": 66, 
+        "national": 66, 
+        "site": 66, 
+        "system": 66, 
+        "facilities": 66, 
+        "regulated": 66, 
+        "priorities": 66, 
+        "download": 66, 
+        "federal": 66, 
+        "sites": 66, 
+        "environment": 66, 
+        "program": 66, 
+        "health": 66, 
+        "interest": 66, 
+        "toxic": 66, 
+        "release": 66, 
+        "latitude": 66, 
+        "type": 66, 
+        "public": 66, 
+        "minor": 66, 
+        "parent": 66, 
+        "acronym": 66, 
+        "environmental": 66, 
+        "registry": 66, 
+        "affiliation": 66, 
+        "list": 66, 
+        "longitude": 66, 
+        "brownfields": 66, 
+        "organization": 66, 
+        "identifier": 66
+    }, 
+    "business-and-industry": {
+        "economy": 1
+    }, 
+    "network": {
+        "social": 1
+    }, 
+    "age": {
+        "school": 2, 
+        "census": 6, 
+        "government": 6, 
+        "race": 2, 
+        "america": 6, 
+        "demographics": 6, 
+        "population": 6
+    }
+}

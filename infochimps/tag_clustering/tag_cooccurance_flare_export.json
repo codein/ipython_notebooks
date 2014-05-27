@@ -1,0 +1,1720 @@
+[
+    {
+        "imports": [], 
+        "name": "longitude"
+    }, 
+    {
+        "imports": [], 
+        "name": "latitude"
+    }, 
+    {
+        "imports": [], 
+        "name": "geo"
+    }, 
+    {
+        "imports": [
+            "joe:link", 
+            "finance", 
+            "zip", 
+            "zipcode", 
+            "longitude", 
+            "business", 
+            "api", 
+            "latitude", 
+            "retail", 
+            "geo"
+        ], 
+        "name": "code"
+    }, 
+    {
+        "imports": [], 
+        "name": "environment"
+    }, 
+    {
+        "imports": [], 
+        "name": "population"
+    }, 
+    {
+        "imports": [
+            "death", 
+            "deaths", 
+            "people-and-places", 
+            "environment", 
+            "economic", 
+            "health", 
+            "communities", 
+            "road", 
+            "population"
+        ], 
+        "name": "life-in-the-community"
+    }, 
+    {
+        "imports": [], 
+        "name": "government"
+    }, 
+    {
+        "imports": [], 
+        "name": "demographics"
+    }, 
+    {
+        "imports": [], 
+        "name": "state"
+    }, 
+    {
+        "imports": [], 
+        "name": "america"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "state", 
+            "america", 
+            "population"
+        ], 
+        "name": "sales"
+    }, 
+    {
+        "imports": [
+            "population"
+        ], 
+        "name": "crime-and-justice"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "selected", 
+            "state", 
+            "housing", 
+            "income", 
+            "america", 
+            "type", 
+            "children", 
+            "population"
+        ], 
+        "name": "facilities"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "number", 
+            "age", 
+            "america", 
+            "population"
+        ], 
+        "name": "children"
+    }, 
+    {
+        "imports": [], 
+        "name": "statistics"
+    }, 
+    {
+        "imports": [
+            "code", 
+            "gis", 
+            "people", 
+            "country", 
+            "government", 
+            "statistics", 
+            "economy", 
+            "geo", 
+            "population"
+        ], 
+        "name": "geography"
+    }, 
+    {
+        "imports": [
+            "maps", 
+            "gis", 
+            "geography"
+        ], 
+        "name": "layers"
+    }, 
+    {
+        "imports": [
+            "government", 
+            "characteristics", 
+            "demographics", 
+            "selected", 
+            "sex", 
+            "state", 
+            "census", 
+            "rates", 
+            "race", 
+            "america", 
+            "deaths", 
+            "age", 
+            "population"
+        ], 
+        "name": "death"
+    }, 
+    {
+        "imports": [], 
+        "name": "crime"
+    }, 
+    {
+        "imports": [
+            "statistics", 
+            "usa", 
+            "deaths", 
+            "us", 
+            "crime", 
+            "death"
+        ], 
+        "name": "police"
+    }, 
+    {
+        "imports": [], 
+        "name": "facility"
+    }, 
+    {
+        "imports": [], 
+        "name": "character"
+    }, 
+    {
+        "imports": [
+            "music", 
+            "maps"
+        ], 
+        "name": "libraryhack_2011"
+    }, 
+    {
+        "imports": [], 
+        "name": "federal"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "federal", 
+            "demographics", 
+            "america", 
+            "energy", 
+            "population"
+        ], 
+        "name": "source"
+    }, 
+    {
+        "imports": [
+            "expenditures", 
+            "census", 
+            "government", 
+            "federal", 
+            "characteristics", 
+            "demographics", 
+            "state", 
+            "health", 
+            "child", 
+            "america", 
+            "children", 
+            "population"
+        ], 
+        "name": "program"
+    }, 
+    {
+        "imports": [
+            "country"
+        ], 
+        "name": "olympics"
+    }, 
+    {
+        "imports": [], 
+        "name": "national"
+    }, 
+    {
+        "imports": [
+            "expenditures", 
+            "census", 
+            "government", 
+            "federal", 
+            "demographics", 
+            "state", 
+            "income", 
+            "america", 
+            "national", 
+            "population"
+        ], 
+        "name": "local"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "deaths", 
+            "age", 
+            "government", 
+            "sex", 
+            "death", 
+            "race", 
+            "rates", 
+            "health", 
+            "america", 
+            "demographics", 
+            "population"
+        ], 
+        "name": "mortality"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "rates", 
+            "social", 
+            "america", 
+            "employment", 
+            "population"
+        ], 
+        "name": "earnings"
+    }, 
+    {
+        "imports": [
+            "health-care-system", 
+            "health-and-social-care", 
+            "health", 
+            "health-of-the-population"
+        ], 
+        "name": "well-being-and-care"
+    }, 
+    {
+        "imports": [], 
+        "name": "finance"
+    }, 
+    {
+        "imports": [
+            "water"
+        ], 
+        "name": "atlas_of_living_australia"
+    }, 
+    {
+        "imports": [], 
+        "name": "toxics"
+    }, 
+    {
+        "imports": [], 
+        "name": "management"
+    }, 
+    {
+        "imports": [], 
+        "name": "chemicals"
+    }, 
+    {
+        "imports": [], 
+        "name": "know"
+    }, 
+    {
+        "imports": [], 
+        "name": "2008"
+    }, 
+    {
+        "imports": [], 
+        "name": "prevention"
+    }, 
+    {
+        "imports": [
+            "toxics", 
+            "right", 
+            "facility", 
+            "community", 
+            "facilities", 
+            "education", 
+            "management", 
+            "section", 
+            "political", 
+            "state", 
+            "chemical", 
+            "source", 
+            "reduction", 
+            "health", 
+            "inventory", 
+            "toxic", 
+            "waste", 
+            "public", 
+            "sharing", 
+            "form", 
+            "hazardous", 
+            "reporting", 
+            "chemicals", 
+            "know", 
+            "care", 
+            "science", 
+            "economics", 
+            "race", 
+            "release", 
+            "2008", 
+            "prevention", 
+            "pollution"
+        ], 
+        "name": "early"
+    }, 
+    {
+        "imports": [
+            "police", 
+            "housing", 
+            "crime", 
+            "child", 
+            "children"
+        ], 
+        "name": "communities"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "america", 
+            "population"
+        ], 
+        "name": "school"
+    }, 
+    {
+        "imports": [
+            "expenditures", 
+            "census", 
+            "government", 
+            "federal", 
+            "national", 
+            "sex", 
+            "state", 
+            "race", 
+            "health", 
+            "america", 
+            "demographics", 
+            "population"
+        ], 
+        "name": "summary"
+    }, 
+    {
+        "imports": [
+            "population", 
+            "census", 
+            "government", 
+            "demographics", 
+            "selected", 
+            "health", 
+            "america", 
+            "care"
+        ], 
+        "name": "benefit"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "federal", 
+            "demographics", 
+            "system", 
+            "america", 
+            "employment", 
+            "population"
+        ], 
+        "name": "race"
+    }, 
+    {
+        "imports": [], 
+        "name": "team"
+    }, 
+    {
+        "imports": [
+            "music"
+        ], 
+        "name": "release"
+    }, 
+    {
+        "imports": [], 
+        "name": "major"
+    }, 
+    {
+        "imports": [
+            "major", 
+            "sports"
+        ], 
+        "name": "identifier"
+    }, 
+    {
+        "imports": [
+            "toxics", 
+            "facility", 
+            "community", 
+            "facilities", 
+            "management", 
+            "section", 
+            "state", 
+            "chemical", 
+            "source", 
+            "reduction", 
+            "inventory", 
+            "toxic", 
+            "waste", 
+            "form", 
+            "hazardous", 
+            "reporting", 
+            "chemicals", 
+            "know", 
+            "release", 
+            "prevention", 
+            "pollution"
+        ], 
+        "name": "right"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "characteristics", 
+            "demographics", 
+            "number", 
+            "deaths", 
+            "selected", 
+            "income", 
+            "health", 
+            "america", 
+            "population"
+        ], 
+        "name": "people"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "selected", 
+            "source", 
+            "state", 
+            "america", 
+            "population"
+        ], 
+        "name": "energy"
+    }, 
+    {
+        "imports": [
+            "eutransparency", 
+            "statistics", 
+            "finance", 
+            "business"
+        ], 
+        "name": "access-nobulk"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "characteristics", 
+            "energy", 
+            "environment", 
+            "social", 
+            "america", 
+            "demographics", 
+            "population"
+        ], 
+        "name": "economic"
+    }, 
+    {
+        "imports": [], 
+        "name": "name"
+    }, 
+    {
+        "imports": [], 
+        "name": "data"
+    }, 
+    {
+        "imports": [
+            "joe:link", 
+            "census", 
+            "name", 
+            "government", 
+            "federal", 
+            "demographics", 
+            "us", 
+            "finance", 
+            "america", 
+            "data", 
+            "population"
+        ], 
+        "name": "election"
+    }, 
+    {
+        "imports": [
+            "school", 
+            "housing", 
+            "benefit", 
+            "child", 
+            "children", 
+            "population"
+        ], 
+        "name": "local-authority"
+    }, 
+    {
+        "imports": [], 
+        "name": "locations"
+    }, 
+    {
+        "imports": [
+            "federal", 
+            "locations", 
+            "environment", 
+            "health", 
+            "public", 
+            "pollution"
+        ], 
+        "name": "download"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "federal", 
+            "demographics", 
+            "america", 
+            "population"
+        ], 
+        "name": "employment"
+    }, 
+    {
+        "imports": [], 
+        "name": "agriculture"
+    }, 
+    {
+        "imports": [
+            "statistics", 
+            "finance", 
+            "crime", 
+            "energy", 
+            "access-nobulk", 
+            "environment", 
+            "eutransparency", 
+            "census", 
+            "health", 
+            "income", 
+            "education", 
+            "agriculture", 
+            "industry", 
+            "population"
+        ], 
+        "name": "transport"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "america", 
+            "children", 
+            "population"
+        ], 
+        "name": "parent"
+    }, 
+    {
+        "imports": [], 
+        "name": "list"
+    }, 
+    {
+        "imports": [
+            "list"
+        ], 
+        "name": "section"
+    }, 
+    {
+        "imports": [
+            "school", 
+            "statistics", 
+            "government", 
+            "demographics", 
+            "census", 
+            "america", 
+            "public", 
+            "population"
+        ], 
+        "name": "selected"
+    }, 
+    {
+        "imports": [
+            "geodata", 
+            "social", 
+            "network"
+        ], 
+        "name": "bigdata"
+    }, 
+    {
+        "imports": [
+            "well-being-and-care", 
+            "hospital", 
+            "health", 
+            "nhs", 
+            "health-and-social-care", 
+            "care"
+        ], 
+        "name": "health-care-system"
+    }, 
+    {
+        "imports": [
+            "statistics", 
+            "health", 
+            "finance", 
+            "crime"
+        ], 
+        "name": "abs"
+    }, 
+    {
+        "imports": [], 
+        "name": "health"
+    }, 
+    {
+        "imports": [
+            "business", 
+            "deaths", 
+            "energy", 
+            "births", 
+            "business-and-industry"
+        ], 
+        "name": "business-and-energy"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "people", 
+            "country", 
+            "demographics", 
+            "government", 
+            "access-nobulk", 
+            "eutransparency", 
+            "selected", 
+            "services", 
+            "america", 
+            "type", 
+            "population"
+        ], 
+        "name": "international"
+    }, 
+    {
+        "imports": [
+            "school", 
+            "census", 
+            "government", 
+            "demographics", 
+            "state", 
+            "america", 
+            "population"
+        ], 
+        "name": "public"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "america", 
+            "population"
+        ], 
+        "name": "business"
+    }, 
+    {
+        "imports": [
+            "corpus", 
+            "list", 
+            "language"
+        ], 
+        "name": "acronym"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "area", 
+            "number", 
+            "america", 
+            "population"
+        ], 
+        "name": "water"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "america", 
+            "population"
+        ], 
+        "name": "care"
+    }, 
+    {
+        "imports": [
+            "gis", 
+            "business", 
+            "economics", 
+            "api", 
+            "geo"
+        ], 
+        "name": "joe:link"
+    }, 
+    {
+        "imports": [
+            "population", 
+            "demographics", 
+            "america", 
+            "government"
+        ], 
+        "name": "census"
+    }, 
+    {
+        "imports": [
+            "economic", 
+            "us"
+        ], 
+        "name": "usa"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "name", 
+            "government", 
+            "demographics", 
+            "list", 
+            "corpus", 
+            "america", 
+            "geo", 
+            "children", 
+            "population"
+        ], 
+        "name": "language"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "america", 
+            "population"
+        ], 
+        "name": "country"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "sales", 
+            "environmental", 
+            "america", 
+            "employment", 
+            "population"
+        ], 
+        "name": "industry"
+    }, 
+    {
+        "imports": [
+            "statistics", 
+            "employment", 
+            "energy", 
+            "crime", 
+            "industry", 
+            "census", 
+            "health", 
+            "income", 
+            "agriculture", 
+            "demographics", 
+            "population"
+        ], 
+        "name": "economics"
+    }, 
+    {
+        "imports": [
+            "science", 
+            "school", 
+            "statistics", 
+            "gis", 
+            "usa", 
+            "employment", 
+            "national", 
+            "data", 
+            "race", 
+            "earnings", 
+            "uk", 
+            "social", 
+            "geo", 
+            "demographics", 
+            "population"
+        ], 
+        "name": "survey"
+    }, 
+    {
+        "imports": [
+            "bigdata", 
+            "api", 
+            "network"
+        ], 
+        "name": "social"
+    }, 
+    {
+        "imports": [], 
+        "name": "superfund"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "superfund", 
+            "government", 
+            "federal", 
+            "demographics", 
+            "america", 
+            "population"
+        ], 
+        "name": "brownfields"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "business", 
+            "government", 
+            "demographics", 
+            "sales", 
+            "america", 
+            "population"
+        ], 
+        "name": "retail"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "sex", 
+            "rates", 
+            "services", 
+            "america", 
+            "type", 
+            "demographics", 
+            "care", 
+            "population"
+        ], 
+        "name": "hospital"
+    }, 
+    {
+        "imports": [
+            "state", 
+            "national"
+        ], 
+        "name": "road"
+    }, 
+    {
+        "imports": [
+            "environment", 
+            "industry", 
+            "geo"
+        ], 
+        "name": "pollution"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "deaths", 
+            "science", 
+            "demographics", 
+            "government", 
+            "state", 
+            "health", 
+            "rates", 
+            "america", 
+            "data", 
+            "mortality", 
+            "population"
+        ], 
+        "name": "cancer"
+    }, 
+    {
+        "imports": [
+            "population", 
+            "census", 
+            "government", 
+            "demographics", 
+            "annual", 
+            "sales", 
+            "expenditures", 
+            "state", 
+            "health", 
+            "america", 
+            "local", 
+            "industry", 
+            "care"
+        ], 
+        "name": "revenue"
+    }, 
+    {
+        "imports": [
+            "road", 
+            "economy"
+        ], 
+        "name": "economics-and-finance"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "america", 
+            "population"
+        ], 
+        "name": "number"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "water", 
+            "source", 
+            "america", 
+            "public", 
+            "population"
+        ], 
+        "name": "community"
+    }, 
+    {
+        "imports": [
+            "music", 
+            "bigdata", 
+            "network"
+        ], 
+        "name": "dictionary"
+    }, 
+    {
+        "imports": [
+            "statistics", 
+            "economic", 
+            "finance", 
+            "access-nobulk"
+        ], 
+        "name": "eutransparency"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "demographics", 
+            "longitude", 
+            "latitude", 
+            "geodata", 
+            "geo", 
+            "geography"
+        ], 
+        "name": "api"
+    }, 
+    {
+        "imports": [
+            "well-being-and-care", 
+            "uk", 
+            "health-care-system", 
+            "statistics", 
+            "health", 
+            "services", 
+            "health-and-social-care", 
+            "care"
+        ], 
+        "name": "nhs"
+    }, 
+    {
+        "imports": [
+            "travel-and-transport", 
+            "transport", 
+            "road"
+        ], 
+        "name": "roads"
+    }, 
+    {
+        "imports": [
+            "health-and-social-care", 
+            "health", 
+            "cancer"
+        ], 
+        "name": "health-of-the-population"
+    }, 
+    {
+        "imports": [
+            "expenditures", 
+            "census", 
+            "government", 
+            "employment", 
+            "demographics", 
+            "selected", 
+            "tax", 
+            "state", 
+            "rates", 
+            "america", 
+            "local", 
+            "population"
+        ], 
+        "name": "city"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "network", 
+            "demographics", 
+            "uk", 
+            "social", 
+            "geo"
+        ], 
+        "name": "gis"
+    }, 
+    {
+        "imports": [
+            "city", 
+            "code", 
+            "gis", 
+            "area", 
+            "country", 
+            "zipcode", 
+            "us", 
+            "latitude", 
+            "state", 
+            "api", 
+            "longitude", 
+            "geodata", 
+            "international", 
+            "geo", 
+            "election"
+        ], 
+        "name": "zip"
+    }, 
+    {
+        "imports": [], 
+        "name": "sites"
+    }, 
+    {
+        "imports": [
+            "america", 
+            "demographics", 
+            "sales", 
+            "country", 
+            "hazardous", 
+            "government", 
+            "list", 
+            "sites", 
+            "summary", 
+            "age", 
+            "state", 
+            "census", 
+            "number", 
+            "retail", 
+            "waste", 
+            "type", 
+            "national", 
+            "population"
+        ], 
+        "name": "area"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "characteristics", 
+            "selected", 
+            "state", 
+            "rates", 
+            "america", 
+            "demographics", 
+            "population"
+        ], 
+        "name": "housing"
+    }, 
+    {
+        "imports": [], 
+        "name": "affiliation"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "number", 
+            "affiliation", 
+            "state", 
+            "party", 
+            "america", 
+            "type", 
+            "population"
+        ], 
+        "name": "political"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "summary", 
+            "america", 
+            "national", 
+            "population"
+        ], 
+        "name": "system"
+    }, 
+    {
+        "imports": [
+            "major"
+        ], 
+        "name": "sports"
+    }, 
+    {
+        "imports": [
+            "joe:link"
+        ], 
+        "name": "reduction"
+    }, 
+    {
+        "imports": [
+            "release", 
+            "community"
+        ], 
+        "name": "music"
+    }, 
+    {
+        "imports": [
+            "statistics", 
+            "rates"
+        ], 
+        "name": "interest"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "crime", 
+            "state", 
+            "interest", 
+            "america", 
+            "type", 
+            "population"
+        ], 
+        "name": "rates"
+    }, 
+    {
+        "imports": [
+            "joe:link", 
+            "api", 
+            "network", 
+            "social"
+        ], 
+        "name": "corpus"
+    }, 
+    {
+        "imports": [
+            "america", 
+            "government", 
+            "demographics", 
+            "revenue", 
+            "census", 
+            "selected", 
+            "services", 
+            "type", 
+            "population"
+        ], 
+        "name": "waste"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "sex", 
+            "america", 
+            "population"
+        ], 
+        "name": "type"
+    }, 
+    {
+        "imports": [], 
+        "name": "minor"
+    }, 
+    {
+        "imports": [
+            "environment"
+        ], 
+        "name": "sharing"
+    }, 
+    {
+        "imports": [
+            "statistics", 
+            "income"
+        ], 
+        "name": "form"
+    }, 
+    {
+        "imports": [
+            "america", 
+            "government", 
+            "census", 
+            "waste", 
+            "demographics", 
+            "population"
+        ], 
+        "name": "hazardous"
+    }, 
+    {
+        "imports": [
+            "earnings", 
+            "road", 
+            "people"
+        ], 
+        "name": "people-and-places"
+    }, 
+    {
+        "imports": [
+            "science", 
+            "energy", 
+            "environment", 
+            "data", 
+            "economy"
+        ], 
+        "name": "environmental"
+    }, 
+    {
+        "imports": [
+            "population", 
+            "census", 
+            "language", 
+            "government", 
+            "characteristics", 
+            "demographics", 
+            "selected", 
+            "age", 
+            "state", 
+            "corpus", 
+            "america", 
+            "data", 
+            "children", 
+            "care"
+        ], 
+        "name": "child"
+    }, 
+    {
+        "imports": [
+            "statistics", 
+            "economic"
+        ], 
+        "name": "geodata"
+    }, 
+    {
+        "imports": [
+            "housing", 
+            "social", 
+            "people-and-places"
+        ], 
+        "name": "housing-and-households"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "age", 
+            "state", 
+            "race", 
+            "rates", 
+            "america", 
+            "industry", 
+            "population"
+        ], 
+        "name": "sex"
+    }, 
+    {
+        "imports": [
+            "environment", 
+            "agriculture", 
+            "earnings"
+        ], 
+        "name": "farming"
+    }, 
+    {
+        "imports": [
+            "environment", 
+            "america", 
+            "government", 
+            "federal", 
+            "energy", 
+            "sex", 
+            "water", 
+            "state", 
+            "census", 
+            "waste", 
+            "demographics", 
+            "population"
+        ], 
+        "name": "science"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "usa", 
+            "area", 
+            "crime", 
+            "maps", 
+            "code", 
+            "geodata", 
+            "america", 
+            "geo"
+        ], 
+        "name": "us"
+    }, 
+    {
+        "imports": [
+            "access-nobulk", 
+            "economic", 
+            "education", 
+            "transport", 
+            "statistics", 
+            "police", 
+            "usa", 
+            "housing", 
+            "crime", 
+            "environment", 
+            "state", 
+            "health", 
+            "interest", 
+            "rates", 
+            "finance", 
+            "government", 
+            "water", 
+            "services", 
+            "census", 
+            "economics", 
+            "us"
+        ], 
+        "name": "uk"
+    }, 
+    {
+        "imports": [
+            "school", 
+            "education"
+        ], 
+        "name": "education-and-skills"
+    }, 
+    {
+        "imports": [
+            "child", 
+            "census", 
+            "government", 
+            "employment", 
+            "demographics", 
+            "benefit", 
+            "expenditures", 
+            "state", 
+            "income", 
+            "social", 
+            "america", 
+            "type", 
+            "population"
+        ], 
+        "name": "annual"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "age", 
+            "government", 
+            "sex", 
+            "race", 
+            "america", 
+            "demographics", 
+            "population"
+        ], 
+        "name": "deaths"
+    }, 
+    {
+        "imports": [
+            "school", 
+            "census", 
+            "government", 
+            "demographics", 
+            "selected", 
+            "sex", 
+            "america", 
+            "public", 
+            "population"
+        ], 
+        "name": "characteristics"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "federal", 
+            "country", 
+            "demographics", 
+            "state", 
+            "income", 
+            "america", 
+            "population"
+        ], 
+        "name": "tax"
+    }, 
+    {
+        "imports": [], 
+        "name": "site"
+    }, 
+    {
+        "imports": [
+            "school"
+        ], 
+        "name": "education"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "population", 
+            "government", 
+            "country", 
+            "demographics", 
+            "source", 
+            "health", 
+            "national", 
+            "party", 
+            "america", 
+            "type", 
+            "public", 
+            "care"
+        ], 
+        "name": "expenditures"
+    }, 
+    {
+        "imports": [
+            "code", 
+            "list", 
+            "zip"
+        ], 
+        "name": "zipcode"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "science", 
+            "demographics", 
+            "us", 
+            "access-nobulk", 
+            "eutransparency", 
+            "toxic", 
+            "america", 
+            "industry", 
+            "population"
+        ], 
+        "name": "chemical"
+    }, 
+    {
+        "imports": [
+            "geodata", 
+            "geo", 
+            "gis"
+        ], 
+        "name": "maps"
+    }, 
+    {
+        "imports": [], 
+        "name": "inventory"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "national", 
+            "selected", 
+            "america", 
+            "demographics", 
+            "population"
+        ], 
+        "name": "income"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "demographics", 
+            "chemical", 
+            "state", 
+            "america", 
+            "population"
+        ], 
+        "name": "toxic"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "characteristics", 
+            "demographics", 
+            "selected", 
+            "america", 
+            "population"
+        ], 
+        "name": "party"
+    }, 
+    {
+        "imports": [
+            "care", 
+            "children", 
+            "child"
+        ], 
+        "name": "health-and-social-care"
+    }, 
+    {
+        "imports": [], 
+        "name": "travel-and-transport"
+    }, 
+    {
+        "imports": [
+            "name", 
+            "federal", 
+            "characteristics", 
+            "national", 
+            "team", 
+            "site", 
+            "environment", 
+            "state", 
+            "economic", 
+            "income", 
+            "download", 
+            "industry"
+        ], 
+        "name": "economy"
+    }, 
+    {
+        "imports": [
+            "school", 
+            "census", 
+            "government", 
+            "crime", 
+            "age", 
+            "public", 
+            "selected", 
+            "economics", 
+            "america", 
+            "type", 
+            "demographics", 
+            "population"
+        ], 
+        "name": "reporting"
+    }, 
+    {
+        "imports": [
+            "census", 
+            "government", 
+            "age", 
+            "deaths", 
+            "number", 
+            "sex", 
+            "state", 
+            "race", 
+            "rates", 
+            "america", 
+            "employment", 
+            "demographics", 
+            "population"
+        ], 
+        "name": "births"
+    }, 
+    {
+        "imports": [
+            "federal", 
+            "us", 
+            "government"
+        ], 
+        "name": "registry"
+    }, 
+    {
+        "imports": [
+            "expenditures", 
+            "retail", 
+            "business", 
+            "government", 
+            "demographics", 
+            "sales", 
+            "census", 
+            "health", 
+            "america", 
+            "public", 
+            "population"
+        ], 
+        "name": "services"
+    }, 
+    {
+        "imports": [], 
+        "name": "discharger"
+    }, 
+    {
+        "imports": [], 
+        "name": "regulated"
+    }, 
+    {
+        "imports": [], 
+        "name": "priorities"
+    }, 
+    {
+        "imports": [], 
+        "name": "organization"
+    }, 
+    {
+        "imports": [
+            "major", 
+            "superfund", 
+            "facility", 
+            "discharger", 
+            "national", 
+            "site", 
+            "system", 
+            "facilities", 
+            "regulated", 
+            "priorities", 
+            "download", 
+            "federal", 
+            "sites", 
+            "environment", 
+            "program", 
+            "health", 
+            "interest", 
+            "toxic", 
+            "release", 
+            "latitude", 
+            "type", 
+            "public", 
+            "minor", 
+            "parent", 
+            "acronym", 
+            "environmental", 
+            "registry", 
+            "affiliation", 
+            "list", 
+            "longitude", 
+            "brownfields", 
+            "organization", 
+            "identifier"
+        ], 
+        "name": "transporter"
+    }, 
+    {
+        "imports": [
+            "economy"
+        ], 
+        "name": "business-and-industry"
+    }, 
+    {
+        "imports": [
+            "social"
+        ], 
+        "name": "network"
+    }, 
+    {
+        "imports": [
+            "school", 
+            "census", 
+            "government", 
+            "race", 
+            "america", 
+            "demographics", 
+            "population"
+        ], 
+        "name": "age"
+    }
+]
