@@ -36,3 +36,9 @@ A pair of notebooks containing a tag cloud visualization of tag from [infochimps
 
 * IPython notebook with vizulaization using d3 @[nbviewer](http://nbviewer.ipython.org/github/codein/ipython_notebooks/blob/master/infochimps/tag%20clustering.ipynb)
 * a concept map of infochimps rendered using d3 @ [github] (http://codein.github.io/d3/tag_clustering/)
+
+![infochimps](https://raw.githubusercontent.com/codein/ipython_notebooks/master/infochimps/tag_clustering/tag_co-occurance.png)
+* A vizualization to capture tag co-occuring on infochimps, rendered using d3 @ [github] (http://codein.github.io/d3/tag_cooccurance/)
+* Clusters identified by un-supervised clustering using [sklearn.cluster.AffinityPropagation] (http://scikit-learn.org/stable/modules/clustering.html#affinity-propagation) @ [github] (http://codein.github.io/d3/tag_cooccurance/index.html#un-supervised-clustering)
+
+
