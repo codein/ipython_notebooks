@@ -41,4 +41,7 @@ A pair of notebooks containing a tag cloud visualization of tag from [infochimps
 * A vizualization to capture tag co-occuring on infochimps, rendered using d3 @ [github] (http://codein.github.io/d3/tag_cooccurance/)
 * Clusters identified by un-supervised clustering using [sklearn.cluster.AffinityPropagation] (http://scikit-learn.org/stable/modules/clustering.html#affinity-propagation) @ [github] (http://codein.github.io/d3/tag_cooccurance/#un-supervised-clustering)
 
+### Social media mining POC
+* IPython notebook retrieves most popular videos from  youtube @[nbviewer] (http://nbviewer.ipython.org/github/codein/ipython_notebooks/blob/master/social%20media%20mining/most%20popular%20on%20youtube.ipynb)
+* Ipython notebook retrieves influence top software compaies have @[nbviewer] (http://nbviewer.ipython.org/github/codein/ipython_notebooks/blob/master/social%20media%20mining/top%20software%20company%20influence.ipynb)
 
